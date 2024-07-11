@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Edit on github website (https://github.com/dathoangdat22/hello-world/edit/main/README.md).
 
 Edit 2.
+
+Edit new branch (update-readme)
